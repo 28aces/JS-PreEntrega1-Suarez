@@ -1,4 +1,4 @@
-# Pre-entrega 1 Curso de Javascript: validador de contraseñas
+# Pre-entrega 1 Curso de JavaScript: validador de contraseñas
 
 ## Descripción
 
